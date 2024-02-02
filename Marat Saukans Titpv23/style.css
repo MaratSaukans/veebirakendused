@@ -16,7 +16,7 @@ footer{
 main section{
 	border-left: 6pt solid red;
 	border-right: 6pt solid red; /*dotted dashed*/
-	border-radius: 60px;
+	border-radius: 800px;
 	padding: 2%;
 	width: 70%
 }
