@@ -18,7 +18,7 @@ main section{
 	border-right: 6pt solid red; /*dotted dashed*/
 	border-radius: 60px;
 	padding: 2%;
-	width: 30%
+	width: 70%
 }
 main section h2{
 	color: blue; /*teksti värv*/
