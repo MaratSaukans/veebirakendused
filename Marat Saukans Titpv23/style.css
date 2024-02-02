@@ -1,0 +1,53 @@
+header{
+	color: blue; /*teksti värv*/
+	background-color: white;/*tausta värv*/
+	front-family: "bauhaus 93", Arial, Georgia;
+	letter-spacing: 0.2cm;
+	text-align: center;
+	
+}
+footer{
+	position: fixed;
+	bottom: 0;
+	background-color: white;
+	width: 100%;
+	text-align: center;
+}
+main section{
+	border-left: 6pt solid red;
+	border-right: 6pt solid red; /*dotted dashed*/
+	border-radius: 60px;
+	padding: 2%;
+	width: 30%
+}
+main section h2{
+	color: blue; /*teksti värv*/
+	background-color: white;/*tausta värv*/
+	front-family: "bauhaus 93", Arial, Georgia;
+	letter-spacing: 0.2cm;
+	text-align: center;
+}
+/*navigeerimismenüü w3shools lehe*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
