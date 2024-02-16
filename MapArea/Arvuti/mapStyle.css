@@ -1,0 +1,12 @@
+h1{
+    background-color: darkred;
+}
+div{
+    border: 1px solid grey;
+    border-radius: 28px;
+    padding: 1%;
+    width: 200px;
+    position: absolute;
+    left: 500px;
+    top: 100px;
+}
